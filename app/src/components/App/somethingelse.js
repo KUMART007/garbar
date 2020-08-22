@@ -2,13 +2,13 @@ import React from 'react';
 import logo from '../../logo.svg';
 import './App.css';
 
-function SignIn() {
+function App() {
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sign In Page.
+          Comming Soon The Gar Bar A Speakeasy Grilling Drinks and BBQ will soon Begin.
         </p>
         <a
           className="App-link"
@@ -23,4 +23,4 @@ function SignIn() {
   );
 }
 
-export default SignIn;
+export default App;
